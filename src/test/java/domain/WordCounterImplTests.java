@@ -2,7 +2,7 @@ package domain;
 
 import org.apache.logging.log4j.core.Logger;
 import org.junit.Assert;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.mockito.Mockito;
 
 import java.util.HashMap;
